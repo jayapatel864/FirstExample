@@ -4,4 +4,5 @@ Order Pizza
     3a. Cash
     3b. See step 6
 Pay driver
+Tip driver
 Enjoy pizza!
