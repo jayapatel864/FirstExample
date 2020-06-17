@@ -1,4 +1,7 @@
-
 Decide which business to order from
 Decide Which type of pizza to order
 Order Pizza
+    3a. Cash
+    3b. See step 6
+Pay driver
+Enjoy pizza!
